@@ -47,8 +47,9 @@ What is In-Context Learning? It is a emergent ability which enables language mod
 
 * **Label Words are Anchors: An Information Flow Perspective for Understanding In-Context Learning** `EMNLP 2023 BEST PAPER AWARD🏆`
   
-   Talk from author [link](https://event.baai.ac.cn/live/733) zhihu [link](https://zhuanlan.zhihu.com/p/439876633)
-   
+   Talk from author [[link]](https://event.baai.ac.cn/live/733)
+   Zhihu [[link]](https://zhuanlan.zhihu.com/p/439876633)
+
    *Lean Wang, Lei Li, Damai Dai, Deli Chen, Hao Zhou, Fandong Meng, Jie Zhou, Xu Sun* [[paper]](https://arxiv.org/abs/2305.14160) 2023.5
 
 * **In-Context Learning with Iterative Demonstration Selection**
