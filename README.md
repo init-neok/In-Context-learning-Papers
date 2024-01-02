@@ -3,8 +3,8 @@
 ![](https://img.shields.io/badge/PRs-welcome-brightgreen) ![](https://img.shields.io/github/stars/init-neok/In-Context-learning-Papers?style=social) 
 
 Inspired by the [repository](https://github.com/SinclairCoder/Instruction-Tuning-Papers) about `instruction tuning`, we build this repository to collect papers about In-Context Learning.
-It's my frist time to collect as a repository, so I will try my best to maintain it. If you have any suggestions, please feel free to leave an issue.
-What is In-Context Learning? It is an emergent ability which enables language models to perform better just by reading just a few similar demonstrations. 
+* It's my frist time to collect as a repository, so I will try my best to maintain it. If you have any suggestions, please feel free to leave an issue.
+* What is In-Context Learning? It is an emergent ability which enables language models to perform better just by reading just a few similar demonstrations. 
 
 ## Papers
 * **Language Models are Few-Shot Learners** `NeurIPS 2020`
@@ -65,6 +65,10 @@ What is In-Context Learning? It is an emergent ability which enables language mo
    Zhihu [[link]](https://zhuanlan.zhihu.com/p/439876633)
 
    *Lean Wang, [Lei Li](https://lilei-nlp.github.io/), Damai Dai, Deli Chen, Hao Zhou, Fandong Meng, Jie Zhou, Xu Sun* [[paper]](https://arxiv.org/abs/2305.14160) 2023.5
+
+* **In-Context Learning Creates Task Vectors** `EMNLP 2023`
+  
+   *Roee Hendel, Mor Geva, Amir Globerson* [[paper]](https://aclanthology.org/2023.findings-emnlp.624/) 2023.10
 
 * **In-Context Learning with Iterative Demonstration Selection**
   
