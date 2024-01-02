@@ -8,10 +8,25 @@ Inspired by the [repository](https://github.com/SinclairCoder/Instruction-Tuning
 What is In-Context Learning? It is a emergent ability which enables language models to perform better just by reading just a few similar demonstrations. 
 
 ## Papers
+* **Language Models are Few-Shot Learners** `NeurIPS 2020`
+   
+   *Tom B. Brown, Benjamin Mann, Nick Ryder, Melanie Subbiah, Jared Kaplan, Prafulla Dhariwal, Arvind Neelakantan, Pranav Shyam, Girish Sastry, Amanda Askell, Sandhini Agarwal, Ariel Herbert-Voss, Gretchen Krueger, Tom Henighan, Rewon Child, Aditya Ramesh, Daniel M. Ziegler, Jeffrey Wu, Clemens Winter, Christopher Hesse, Mark Chen, Eric Sigler, Mateusz Litwin, Scott Gray, Benjamin Chess, Jack Clark, Christopher Berner, Sam McCandlish, Alec Radford, Ilya Sutskever, Dario Amodei* [[paper]](https://arxiv.org/abs/2005.14165) 2020.5
 
-* **MetaICL: Learning to Learn In Context**
+* **What Makes Good In-Context Examples for GPT-3?** 
+   
+   *Jiachang Liu, Dinghan Shen, Yizhe Zhang, Bill Dolan, Lawrence Carin, Weizhu Chen* [[paper]](https://arxiv.org/abs/2101.06804) 2021.1
+
+* **MetaICL: Learning to Learn In Context** `NAACL 2022`
    
    *Sewon Min, Mike Lewis, Luke Zettlemoyer, Hannaneh Hajishirzi* [[paper]](https://arxiv.org/abs/2110.15943) 2021.10
+
+* **Multitask Prompted Training Enables Zero-Shot Task Generalization** `ICLR 2022`
+   
+   *Victor Sanh, Albert Webson, Colin Raffel, Stephen H. Bach, Lintang Sutawika, Zaid Alyafeai, Antoine Chaffin, Arnaud Stiegler, Teven Le Scao, Arun Raja, Manan Dey, M Saiful Bari, Canwen Xu, Urmish Thakker, Shanya Sharma Sharma, Eliza Szczechla, Taewoon Kim, Gunjan Chhablani, Nihal Nayak, Debajyoti Datta, Jonathan Chang, Mike Tian-Jian Jiang, Han Wang, Matteo Manica, Sheng Shen, Zheng Xin Yong, Harshit Pandey, Rachel Bawden, Thomas Wang, Trishala Neeraj, Jos Rozen, Abheesht Sharma, Andrea Santilli, Thibault Fevry, Jason Alan Fries, Ryan Teehan, Tali Bers, Stella Biderman, Leo Gao, Thomas Wolf, Alexander M. Rush* [[paper]](https://arxiv.org/abs/2110.08207) 2021.10
+
+* **Meta-learning via Language Model In-context Tuning** `ACL 2022`
+   
+   *Yanda Chen, Ruiqi Zhong, Sheng Zha, George Karypis, He He* [[paper]](https://aclanthology.org/2022.acl-long.53/) 2021.10
 
 * **A Survey on In-context Learning**
    
@@ -37,7 +52,7 @@ What is In-Context Learning? It is a emergent ability which enables language mod
    
    *Damai Dai, Yutao Sun, Li Dong, Yaru Hao, Shuming Ma, Zhifang Sui, Furu Wei* [[paper]](https://arxiv.org/abs/2212.10559) 2022.12
 
-* **Rethinking the Role of Demonstrations: What Makes In-Context Learning Work?**
+* **Rethinking the Role of Demonstrations: What Makes In-Context Learning Work?** `EMNLP 2022`
    
    *Sewon Min, Xinxi Lyu, Ari Holtzman, Mikel Artetxe, Mike Lewis, Hannaneh Hajishirzi, Luke Zettlemoyer* [[paper]](https://arxiv.org/abs/2202.12837) 2022.2
 
