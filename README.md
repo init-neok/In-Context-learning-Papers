@@ -44,7 +44,8 @@ Inspired by the [repository](https://github.com/SinclairCoder/Instruction-Tuning
    *Yiming Zhang, Shi Feng, Chenhao Tan* [[paper]](https://arxiv.org/abs/2211.04486) 2022.11
 
 * **Self-Adaptive In-Context Learning: An Information Compression Perspective for In-Context Example Selection and Ordering** `ACL 2023`
-  zhihu [[link]](https://zhuanlan.zhihu.com/p/665852216)
+  
+   * zhihu [[link]](https://zhuanlan.zhihu.com/p/665852216)
   
    *Zhiyong Wu, Yaoxiang Wang, [Jiacheng Ye](https://jiacheng-ye.github.io/), Lingpeng Kong* [[paper]](https://arxiv.org/abs/2212.10375) 2022.12
 
