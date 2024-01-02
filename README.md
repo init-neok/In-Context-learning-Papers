@@ -2,10 +2,10 @@
 
 ![](https://img.shields.io/badge/PRs-welcome-brightgreen) ![](https://img.shields.io/github/stars/init-neok/In-Context-learning-Papers?style=social) 
 
-Inspired by the [repository](https://github.com/SinclairCoder/Instruction-Tuning-Papers) about instruction tuning, we build this repository to collect papers about In-Context Learning.
-A trend starts from `Natrural-Instruction` (ACL 2022), `FLAN` (ICLR 2022) and `T0` (ICLR 2022). 
+Inspired by the [repository](https://github.com/SinclairCoder/Instruction-Tuning-Papers) about `instruction tuning`, we build this repository to collect papers about In-Context Learning.
 
-What's In-Context Learning? It is a emergent ability whcih enables language models to perform better just by reading just a few similar demonstrations. 
+
+What is In-Context Learning? It is a emergent ability which enables language models to perform better just by reading just a few similar demonstrations. 
 
 
 
