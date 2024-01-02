@@ -31,7 +31,7 @@ Inspired by the [repository](https://github.com/SinclairCoder/Instruction-Tuning
   
    *Qingxiu Dong, [Lei Li](https://lilei-nlp.github.io/), Damai Dai, Ce Zheng, Zhiyong Wu, Baobao Chang, Xu Sun, Jingjing Xu, Lei Li and Zhifang Sui* [[paper]](https://arxiv.org/abs/2301.00234) 2022.12
 
-* **Learning To Retrieve Prompts for In-Context Learning**
+* **Learning To Retrieve Prompts for In-Context Learning** `NAACL 2022`
   
    *Ohad Rubin, Jonathan Herzig, Jonathan Berant* [[paper]](https://arxiv.org/abs/2112.08633) 2021.12
 
@@ -39,7 +39,7 @@ Inspired by the [repository](https://github.com/SinclairCoder/Instruction-Tuning
   
    *Tony Z. Zhao, Eric Wallace, Shi Feng, Dan Klein, Sameer Singh* [[paper]](https://icml.cc/virtual/2021/oral/10186) 2022.2
 
-* **Active Example Selection for In-Context Learning**
+* **Active Example Selection for In-Context Learning** `EMNLP 2022`
   
    *Yiming Zhang, Shi Feng, Chenhao Tan* [[paper]](https://arxiv.org/abs/2211.04486) 2022.11
 
