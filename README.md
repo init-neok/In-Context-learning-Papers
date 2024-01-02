@@ -32,6 +32,7 @@ Inspired by the [repository](https://github.com/SinclairCoder/Instruction-Tuning
    *Qingxiu Dong, [Lei Li](https://lilei-nlp.github.io/), Damai Dai, Ce Zheng, Zhiyong Wu, Baobao Chang, Xu Sun, Jingjing Xu, Lei Li and Zhifang Sui* [[paper]](https://arxiv.org/abs/2301.00234) 2022.12
 
 * **Learning To Retrieve Prompts for In-Context Learning** `NAACL 2022`
+  * propose the method of `epr`
   
    *Ohad Rubin, Jonathan Herzig, Jonathan Berant* [[paper]](https://arxiv.org/abs/2112.08633) 2021.12
 
