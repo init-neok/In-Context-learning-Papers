@@ -33,7 +33,7 @@ Inspired by the [repository](https://github.com/SinclairCoder/Instruction-Tuning
 
 * **Learning To Retrieve Prompts for In-Context Learning** `NAACL 2022`
   * propose the method of `epr`
-  * There is a bug in the [page](https://aclanthology.org/2022.naacl-main.191/) of NAACL, if you click the video link on it, you will jump to the video of the introduction of the paper *MetaICL: Learning to Learn In Context*. 
+  * 😝There is a bug in the [page](https://aclanthology.org/2022.naacl-main.191/) of NAACL, if you click the video link on it, you will jump to the video of the introduction of the paper *MetaICL: Learning to Learn In Context*. 
   
    *Ohad Rubin, Jonathan Herzig, Jonathan Berant* [[paper]](https://arxiv.org/abs/2112.08633) 2021.12
 
