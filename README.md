@@ -33,6 +33,10 @@ What is In-Context Learning? It is a emergent ability which enables language mod
    
    *Zhiyong Wu, Yaoxiang Wang, Jiacheng Ye, Lingpeng Kong* [[paper]](https://arxiv.org/abs/2212.10375) 2022.12
 
+* **Why Can GPT Learn In-Context? Language Models Implicitly Perform Gradient Descent as Meta-Optimizers** `ACL 2023`
+   
+   *Damai Dai, Yutao Sun, Li Dong, Yaru Hao, Shuming Ma, Zhifang Sui, Furu Wei* [[paper]](https://arxiv.org/abs/2212.10559) 2022.12
+
 * **Rethinking the Role of Demonstrations: What Makes In-Context Learning Work?**
    
    *Sewon Min, Xinxi Lyu, Ari Holtzman, Mikel Artetxe, Mike Lewis, Hannaneh Hajishirzi, Luke Zettlemoyer* [[paper]](https://arxiv.org/abs/2202.12837) 2022.2
@@ -42,7 +46,7 @@ What is In-Context Learning? It is a emergent ability which enables language mod
    *Jiacheng Ye, Zhiyong Wu, Jiangtao Feng, Tao Yu, Lingpeng Kong* [[paper]](https://arxiv.org/abs/2302.05698) 2023.2
 
 * **Label Words are Anchors: An Information Flow Perspective for Understanding In-Context Learning** `EMNLP 2023 BEST PAPER AWARD🏆`
-   
+   Talk from author [link](https://event.baai.ac.cn/live/733) zhihu [link](https://zhuanlan.zhihu.com/p/439876633)
    *Lean Wang, Lei Li, Damai Dai, Deli Chen, Hao Zhou, Fandong Meng, Jie Zhou, Xu Sun* [[paper]](https://arxiv.org/abs/2305.14160) 2023.5
 
 * **In-Context Learning with Iterative Demonstration Selection**
@@ -63,9 +67,7 @@ What is In-Context Learning? It is a emergent ability which enables language mod
 
 
 
-* **？?**
-   
-   *r* [[paper]]() 2022.2
+
 
 
 
