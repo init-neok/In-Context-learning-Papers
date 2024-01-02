@@ -35,9 +35,9 @@ Inspired by the [repository](https://github.com/SinclairCoder/Instruction-Tuning
   
    *Ohad Rubin, Jonathan Herzig, Jonathan Berant* [[paper]](https://arxiv.org/abs/2112.08633) 2021.12
 
-* **Calibrate Before Use: Improving Few-shot Performance of Language Models**
+* **Calibrate Before Use: Improving Few-shot Performance of Language Models** `ICML 2021`
   
-   *Tony Z. Zhao, Eric Wallace, Shi Feng, Dan Klein, Sameer Singh* [[paper]](https://arxiv.org/abs/2102.09690) 2022.2
+   *Tony Z. Zhao, Eric Wallace, Shi Feng, Dan Klein, Sameer Singh* [[paper]](https://icml.cc/virtual/2021/oral/10186) 2022.2
 
 * **Active Example Selection for In-Context Learning**
   
