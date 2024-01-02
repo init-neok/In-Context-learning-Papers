@@ -47,7 +47,7 @@ Inspired by the [repository](https://github.com/SinclairCoder/Instruction-Tuning
   
    * zhihu [[link]](https://zhuanlan.zhihu.com/p/665852216)
   
-   *Zhiyong Wu, Yaoxiang Wang, [Jiacheng Ye](https://jiacheng-ye.github.io/), Lingpeng Kong* [[paper]](https://arxiv.org/abs/2212.10375) 2022.12
+   *Zhiyong Wu, Yaoxiang Wang, [Jiacheng Ye](https://jiacheng-ye.github.io/), [Lingpeng Kong](https://ikekonglp.github.io/)* [[paper]](https://arxiv.org/abs/2212.10375) 2022.12
 
 * **Why Can GPT Learn In-Context? Language Models Implicitly Perform Gradient Descent as Meta-Optimizers** `ACL 2023`
   
@@ -59,7 +59,7 @@ Inspired by the [repository](https://github.com/SinclairCoder/Instruction-Tuning
 
 * **Compositional Exemplars for In-context Learning** `ICML 2023`
   
-   *[Jiacheng Ye](https://jiacheng-ye.github.io/), Zhiyong Wu, Jiangtao Feng, Tao Yu, Lingpeng Kong* [[paper]](https://arxiv.org/abs/2302.05698) 2023.2
+   *[Jiacheng Ye](https://jiacheng-ye.github.io/), Zhiyong Wu, Jiangtao Feng, Tao Yu, [Lingpeng Kong](https://ikekonglp.github.io/)* [[paper]](https://arxiv.org/abs/2302.05698) 2023.2
 
 * **Label Words are Anchors: An Information Flow Perspective for Understanding In-Context Learning** `EMNLP 2023 BEST PAPER AWARD🏆`
   
