@@ -59,6 +59,7 @@ Inspired by the [repository](https://github.com/SinclairCoder/Instruction-Tuning
    *Sewon Min, Xinxi Lyu, Ari Holtzman, Mikel Artetxe, Mike Lewis, Hannaneh Hajishirzi, Luke Zettlemoyer* [[paper]](https://arxiv.org/abs/2202.12837) 2022.2
 
 * **Compositional Exemplars for In-context Learning** `ICML 2023`
+  * propose the method of `ceil`
   
    *[Jiacheng Ye](https://jiacheng-ye.github.io/), Zhiyong Wu, Jiangtao Feng, Tao Yu, [Lingpeng Kong](https://ikekonglp.github.io/)* [[paper]](https://arxiv.org/abs/2302.05698) 2023.2
 
