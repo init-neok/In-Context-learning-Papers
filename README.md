@@ -14,6 +14,7 @@ Inspired by the [repository](https://github.com/SinclairCoder/Instruction-Tuning
    *Tom B. Brown, Benjamin Mann, Nick Ryder, Melanie Subbiah, Jared Kaplan, Prafulla Dhariwal, Arvind Neelakantan, Pranav Shyam, Girish Sastry, Amanda Askell, Sandhini Agarwal, Ariel Herbert-Voss, Gretchen Krueger, Tom Henighan, Rewon Child, Aditya Ramesh, Daniel M. Ziegler, Jeffrey Wu, Clemens Winter, Christopher Hesse, Mark Chen, Eric Sigler, Mateusz Litwin, Scott Gray, Benjamin Chess, Jack Clark, Christopher Berner, Sam McCandlish, Alec Radford, Ilya Sutskever, Dario Amodei* [[paper]](https://arxiv.org/abs/2005.14165) 2020.5
 
 * **What Makes Good In-Context Examples for GPT-3?** 
+  * propose KATE, a method for selecting good in-context examples for GPT-3
   
    *[Jiachang Liu](https://jiachangliu.github.io/), Dinghan Shen, Yizhe Zhang, Bill Dolan, Lawrence Carin, Weizhu Chen* [[paper]](https://arxiv.org/abs/2101.06804) 2021.1
 
@@ -42,6 +43,13 @@ Inspired by the [repository](https://github.com/SinclairCoder/Instruction-Tuning
 * **Calibrate Before Use: Improving Few-shot Performance of Language Models** `ICML 2021`
   
    *Tony Z. Zhao, Eric Wallace, Shi Feng, Dan Klein, Sameer Singh* [[paper]](https://icml.cc/virtual/2021/oral/10186) 2022.2
+
+* **Few-Shot Parameter-Efficient Fine-Tuning is Better and Cheaper than In-Context Learning** `NeurIPS 2022`
+  * zhihu [[link]](https://zhuanlan.zhihu.com/p/609954679)
+  * propose the method of `IA<sup>3</sup>` *Infused Adapters by Inhibiting and Amplifying Inner Activations* which is a PEFT method
+  * propose the method of `T-Few`
+  
+   *Haokun Liu, Derek Tam, Mohammed Muqeeth, Jay Mohta, Tenghao Huang, Mohit Bansal, Colin Raffel* [[paper]](https://arxiv.org/abs/2205.05638) 2022.5
 
 * **Active Example Selection for In-Context Learning** `EMNLP 2022`
   
