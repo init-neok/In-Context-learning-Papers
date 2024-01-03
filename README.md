@@ -46,7 +46,7 @@ Inspired by the [repository](https://github.com/SinclairCoder/Instruction-Tuning
 
 * **Few-Shot Parameter-Efficient Fine-Tuning is Better and Cheaper than In-Context Learning** `NeurIPS 2022`
   * zhihu [[link]](https://zhuanlan.zhihu.com/p/609954679)
-  * propose the method of IA<sup>3</sup> *Infused Adapters by Inhibiting and Amplifying Inner Activations* which is a PEFT method
+  * propose a PEFT method called IA<sup>3</sup>  which is an abbreviation: *I*nfused *A*dapters by Inhibiting and *A*mplifying Inner *A*ctivations
   * propose the method of `T-Few`
   
    *Haokun Liu, Derek Tam, Mohammed Muqeeth, Jay Mohta, Tenghao Huang, Mohit Bansal, Colin Raffel* [[paper]](https://arxiv.org/abs/2205.05638) 2022.5
@@ -67,12 +67,16 @@ Inspired by the [repository](https://github.com/SinclairCoder/Instruction-Tuning
 
 * **Rethinking the Role of Demonstrations: What Makes In-Context Learning Work?** `EMNLP 2022`
   
-   *Sewon Min, Xinxi Lyu, Ari Holtzman, Mikel Artetxe, Mike Lewis, Hannaneh Hajishirzi, Luke Zettlemoyer* [[paper]](https://arxiv.org/abs/2202.12837) 2022.2
+   *[Sewon Min](https://shmsw25.github.io/), Xinxi Lyu, Ari Holtzman, Mikel Artetxe, Mike Lewis, Hannaneh Hajishirzi, Luke Zettlemoyer* [[paper]](https://arxiv.org/abs/2202.12837) 2022.2
 
 * **Compositional Exemplars for In-context Learning** `ICML 2023`
   * propose the method of `ceil`
   
    *[Jiacheng Ye](https://jiacheng-ye.github.io/), Zhiyong Wu, Jiangtao Feng, Tao Yu, [Lingpeng Kong](https://ikekonglp.github.io/)* [[paper]](https://arxiv.org/abs/2302.05698) 2023.2
+
+* **Finding Support Examples for In-Context Learning** `EMNLP 2023`
+  
+   *Xiaonan Li, Xipeng Qiu* [[paper]](https://arxiv.org/abs/2302.13539) 2023.2
 
 * **Label Words are Anchors: An Information Flow Perspective for Understanding In-Context Learning** `EMNLP 2023 BEST PAPER AWARD🏆`
   
