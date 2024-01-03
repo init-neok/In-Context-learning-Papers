@@ -76,7 +76,7 @@ Inspired by the [repository](https://github.com/SinclairCoder/Instruction-Tuning
 
 * **Finding Support Examples for In-Context Learning** `EMNLP 2023`
   
-   *Xiaonan Li, Xipeng Qiu* [[paper]](https://arxiv.org/abs/2302.13539) 2023.2
+   *[Xiaonan Li](https://scholar.google.com/citations?user=ldEcEjEAAAAJ), [Xipeng Qiu](https://xpqiu.github.io/)* [[paper]](https://arxiv.org/abs/2302.13539) 2023.2
 
 * **Label Words are Anchors: An Information Flow Perspective for Understanding In-Context Learning** `EMNLP 2023 BEST PAPER AWARD🏆`
   
@@ -84,6 +84,10 @@ Inspired by the [repository](https://github.com/SinclairCoder/Instruction-Tuning
    Zhihu [[link]](https://zhuanlan.zhihu.com/p/439876633)
 
    *Lean Wang, [Lei Li](https://lilei-nlp.github.io/), Damai Dai, Deli Chen, Hao Zhou, Fandong Meng, Jie Zhou, Xu Sun* [[paper]](https://arxiv.org/abs/2305.14160) 2023.5
+   
+* **Unified Demonstration Retriever for In-Context Learning** `ACL 2023`
+  
+   *Xiaonan Li, Kai Lv, Hang Yan, Tianyang Lin, Wei Zhu, Yuan Ni, Guotong Xie, Xiaoling Wang, [Xipeng Qiu](https://xpqiu.github.io/)* [[paper]](https://arxiv.org/abs/2305.04320) 2023.5
 
 * **In-Context Demonstration Selection with Cross Entropy Difference** `EMNLP 2023`
   
