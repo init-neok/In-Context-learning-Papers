@@ -73,6 +73,10 @@ Inspired by the [repository](https://github.com/SinclairCoder/Instruction-Tuning
 
    *Lean Wang, [Lei Li](https://lilei-nlp.github.io/), Damai Dai, Deli Chen, Hao Zhou, Fandong Meng, Jie Zhou, Xu Sun* [[paper]](https://arxiv.org/abs/2305.14160) 2023.5
 
+* **In-Context Demonstration Selection with Cross Entropy Difference** `EMNLP 2023`
+  
+   *Dan Iter, Reid Pryzant, Ruochen Xu, Shuohang Wang, Yang Liu, Yichong Xu, Chenguang Zhu* [[paper]](https://arxiv.org/abs/2305.14726) 2023.5
+
 * **In-Context Learning Creates Task Vectors** `EMNLP 2023`
   
    *Roee Hendel, Mor Geva, Amir Globerson* [[paper]](https://aclanthology.org/2023.findings-emnlp.624/) 2023.10
