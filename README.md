@@ -9,7 +9,7 @@ Inspired by the [repository](https://github.com/SinclairCoder/Instruction-Tuning
 ## Papers
 * **Language Models are Few-Shot Learners** `NeurIPS 2020`
   * propose the concept of `In-Context Learning`
-  * OpnAI [[link]](https://openai.com/blog/few-shot-learning-of-4k-images/)
+  * OpenAI [[link]](https://openai.com/blog/few-shot-learning-of-4k-images/)
   
    *Tom B. Brown, Benjamin Mann, Nick Ryder, Melanie Subbiah, Jared Kaplan, Prafulla Dhariwal, Arvind Neelakantan, Pranav Shyam, Girish Sastry, Amanda Askell, Sandhini Agarwal, Ariel Herbert-Voss, Gretchen Krueger, Tom Henighan, Rewon Child, Aditya Ramesh, Daniel M. Ziegler, Jeffrey Wu, Clemens Winter, Christopher Hesse, Mark Chen, Eric Sigler, Mateusz Litwin, Scott Gray, Benjamin Chess, Jack Clark, Christopher Berner, Sam McCandlish, Alec Radford, Ilya Sutskever, Dario Amodei* [[paper]](https://arxiv.org/abs/2005.14165) 2020.5
 
