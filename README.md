@@ -53,7 +53,7 @@ Inspired by the [repository](https://github.com/SinclairCoder/Instruction-Tuning
   
    *Zhiyong Wu, Yaoxiang Wang, [Jiacheng Ye](https://jiacheng-ye.github.io/), [Lingpeng Kong](https://ikekonglp.github.io/)* [[paper]](https://arxiv.org/abs/2212.10375) 2022.12
 
-* **Why Can GPT Learn In-Context? Language Models Implicitly Perform Gradient Descent as Meta-Optimizers** `ACL 2023`
+* **Why Can GPT Learn In-Context? Language Models Implicitly Perform Gradient Descent as Meta-Optimizers** `ICLR 2023`
   
    *Damai Dai, Yutao Sun, Li Dong, Yaru Hao, Shuming Ma, Zhifang Sui, Furu Wei* [[paper]](https://arxiv.org/abs/2212.10559) 2022.12
 
