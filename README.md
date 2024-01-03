@@ -46,7 +46,7 @@ Inspired by the [repository](https://github.com/SinclairCoder/Instruction-Tuning
 
 * **Few-Shot Parameter-Efficient Fine-Tuning is Better and Cheaper than In-Context Learning** `NeurIPS 2022`
   * zhihu [[link]](https://zhuanlan.zhihu.com/p/609954679)
-  * propose the method of `IA<sup>3</sup>` *Infused Adapters by Inhibiting and Amplifying Inner Activations* which is a PEFT method
+  * propose the method of IA<sup>3</sup> *Infused Adapters by Inhibiting and Amplifying Inner Activations* which is a PEFT method
   * propose the method of `T-Few`
   
    *Haokun Liu, Derek Tam, Mohammed Muqeeth, Jay Mohta, Tenghao Huang, Mohit Bansal, Colin Raffel* [[paper]](https://arxiv.org/abs/2205.05638) 2022.5
