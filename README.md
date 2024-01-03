@@ -15,7 +15,7 @@ Inspired by the [repository](https://github.com/SinclairCoder/Instruction-Tuning
 
 * **What Makes Good In-Context Examples for GPT-3?** 
   
-   *Jiachang Liu, Dinghan Shen, Yizhe Zhang, Bill Dolan, Lawrence Carin, Weizhu Chen* [[paper]](https://arxiv.org/abs/2101.06804) 2021.1
+   *[Jiachang Liu](https://jiachangliu.github.io/), Dinghan Shen, Yizhe Zhang, Bill Dolan, Lawrence Carin, Weizhu Chen* [[paper]](https://arxiv.org/abs/2101.06804) 2021.1
 
 * **MetaICL: Learning to Learn In Context** `NAACL 2022`
   
