@@ -1,6 +1,6 @@
 # In-Context-learning-Papers    
 
-![](https://img.shields.io/badge/PRs-welcome-brightgreen) ![](https://img.shields.io/github/stars/init-neok/In-Context-learning-Papers?style=social) 
+![](https://img.shields.io/badge/PRs-welcome-brightgreen) ![Static Badge](https://img.shields.io/badge/In%20context%20Learning-ICL-A9A9A9?style=plastic) ![](https://img.shields.io/github/stars/init-neok/In-Context-learning-Papers?style=social) 
 
 Inspired by the [repository](https://github.com/SinclairCoder/Instruction-Tuning-Papers) about `instruction tuning`, we build this repository to collect papers about In-Context Learning.
 * It's my frist time to collect as a repository, so I will try my best to keep it. If you have any suggestions, please feel free to leave an issue.
