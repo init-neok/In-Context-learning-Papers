@@ -51,6 +51,10 @@ Inspired by the [repository](https://github.com/SinclairCoder/Instruction-Tuning
   
    *Haokun Liu, Derek Tam, Mohammed Muqeeth, Jay Mohta, Tenghao Huang, Mohit Bansal, Colin Raffel* [[paper]](https://arxiv.org/abs/2205.05638) 2022.5
 
+* **Ground-Truth Labels Matter: A Deeper Look into Input-Label Demonstrations** `EMNLP 2022`
+  
+   *Kang Min Yoo, Junyeob Kim, Hyuhng Joon Kim, Hyunsoo Cho, Hwiyeol Jo, Sang-Woo Lee, Sang-goo Lee, Taeuk Kim* [[paper]](https://arxiv.org/abs/2205.12685) 2022.5
+
 * **Active Example Selection for In-Context Learning** `EMNLP 2022`
   
    *Yiming Zhang, Shi Feng, Chenhao Tan* [[paper]](https://arxiv.org/abs/2211.04486) 2022.11
