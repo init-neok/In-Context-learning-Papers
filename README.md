@@ -32,7 +32,7 @@ Inspired by the [repository](https://github.com/SinclairCoder/Instruction-Tuning
 
 * **An Explanation of In-context Learning as Implicit Bayesian Inference** `ICLR 2022`
   
-   *Sang Michael Xie, Aditi Raghunathan, Percy Liang, Tengyu Ma* [[paper]](https://arxiv.org/abs/2111.02080) 2022.11
+   *Sang Michael Xie, Aditi Raghunathan, [Percy Liang](https://cs.stanford.edu/~pliang/), Tengyu Ma* [[paper]](https://arxiv.org/abs/2111.02080) 2022.11
 
 * **A Survey on In-context Learning**
   
@@ -99,7 +99,7 @@ Inspired by the [repository](https://github.com/SinclairCoder/Instruction-Tuning
 
 * **PRODIGY: Enabling In-context Learning Over Graphs** `NeurIPS 2023`
   
-   *Qian Huang, Hongyu Ren, Peng Chen, Gregor Kržmanc, Daniel Zeng, Percy Liang, Jure Leskovec* [[paper]](https://arxiv.org/abs/2305.12600) 2023.5
+   *Qian Huang, Hongyu Ren, Peng Chen, Gregor Kržmanc, Daniel Zeng, [Percy Liang](https://cs.stanford.edu/~pliang/), Jure Leskovec* [[paper]](https://arxiv.org/abs/2305.12600) 2023.5
 
 * **In-Context Demonstration Selection with Cross Entropy Difference** `EMNLP 2023`
   
@@ -107,7 +107,7 @@ Inspired by the [repository](https://github.com/SinclairCoder/Instruction-Tuning
 
 * **In-Context Learning Creates Task Vectors** `EMNLP 2023`
   
-   *Qian Huang, Hongyu Ren, Peng Chen, Gregor Kržmanc, Daniel Zeng, Percy Liang, Jure Leskovec* [[paper]](https://arxiv.org/abs/2305.12600) 2023.6
+   *Qian Huang, Hongyu Ren, Peng Chen, Gregor Kržmanc, Daniel Zeng, [Percy Liang](https://cs.stanford.edu/~pliang/), Jure Leskovec* [[paper]](https://arxiv.org/abs/2305.12600) 2023.6
 
 * **In-Context Learning with Iterative Demonstration Selection**
   
