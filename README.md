@@ -48,6 +48,11 @@ Inspired by the [repository](https://github.com/SinclairCoder/Instruction-Tuning
   
    *Tony Z. Zhao, Eric Wallace, Shi Feng, Dan Klein, Sameer Singh* [[paper]](https://icml.cc/virtual/2021/oral/10186) 2022.2
 
+* **Rethinking the Role of Demonstrations: What Makes In-Context Learning Work?** `EMNLP 2022`
+  * zhihu [[link]](https://zhuanlan.zhihu.com/p/664965465) written by me.
+  
+   *[Sewon Min](https://shmsw25.github.io/), Xinxi Lyu, Ari Holtzman, Mikel Artetxe, Mike Lewis, Hannaneh Hajishirzi, Luke Zettlemoyer* [[paper]](https://arxiv.org/abs/2202.12837) 2022.2
+
 * **Few-Shot Parameter-Efficient Fine-Tuning is Better and Cheaper than In-Context Learning** `NeurIPS 2022`
   * zhihu [[link]](https://zhuanlan.zhihu.com/p/609954679)
   * propose a PEFT method called IA<sup>3</sup>  which is an abbreviation: *I*nfused *A*dapters by Inhibiting and *A*mplifying Inner *A*ctivations
@@ -62,6 +67,9 @@ Inspired by the [repository](https://github.com/SinclairCoder/Instruction-Tuning
 * **Active Example Selection for In-Context Learning** `EMNLP 2022`
   
    *Yiming Zhang, Shi Feng, Chenhao Tan* [[paper]](https://arxiv.org/abs/2211.04486) 2022.11
+* **Teaching Algorithmic Reasoning via In-context Learning** 
+  
+   *Hattie Zhou, Azade Nova, Hugo Larochelle, Aaron Courville, Behnam Neyshabur, Hanie Sedghi* [[paper]](https://arxiv.org/abs/2211.09066) 2022.11
 
 * **Self-Adaptive In-Context Learning: An Information Compression Perspective for In-Context Example Selection and Ordering** `ACL 2023`
   
@@ -69,13 +77,11 @@ Inspired by the [repository](https://github.com/SinclairCoder/Instruction-Tuning
   
    *Zhiyong Wu, Yaoxiang Wang, [Jiacheng Ye](https://jiacheng-ye.github.io/), [Lingpeng Kong](https://ikekonglp.github.io/)* [[paper]](https://arxiv.org/abs/2212.10375) 2022.12
 
+
+
 * **Why Can GPT Learn In-Context? Language Models Implicitly Perform Gradient Descent as Meta-Optimizers** `ICLR 2023`
   
    *Damai Dai, Yutao Sun, Li Dong, Yaru Hao, Shuming Ma, Zhifang Sui, Furu Wei* [[paper]](https://arxiv.org/abs/2212.10559) 2022.12
-
-* **Rethinking the Role of Demonstrations: What Makes In-Context Learning Work?** `EMNLP 2022`
-  
-   *[Sewon Min](https://shmsw25.github.io/), Xinxi Lyu, Ari Holtzman, Mikel Artetxe, Mike Lewis, Hannaneh Hajishirzi, Luke Zettlemoyer* [[paper]](https://arxiv.org/abs/2202.12837) 2022.2
 
 * **Compositional Exemplars for In-context Learning** `ICML 2023`
   * propose the method of `ceil`
@@ -122,8 +128,9 @@ Inspired by the [repository](https://github.com/SinclairCoder/Instruction-Tuning
    *Quanyu Long, Wenya Wang, Sinno Pan* [[paper]](https://aclanthology.org/2023.emnlp-main.402/) 2023.11
 
 
-
-
+## Besides Papers
+* [blog](https://ai.stanford.edu/blog/understanding-incontext/) by [Sang Michael Xie](https://cs.stanford.edu/~eix/) and [Sewon Min](https://shmsw25.github.io/)
+* [blog](https://thegradient.pub/in-context-learning-in-context/) by Daniel Bashir
 
 
 
