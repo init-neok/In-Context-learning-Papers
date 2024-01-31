@@ -127,17 +127,17 @@ Inspired by the [repository](https://github.com/SinclairCoder/Instruction-Tuning
   
    *Quanyu Long, Wenya Wang, Sinno Pan* [[paper]](https://aclanthology.org/2023.emnlp-main.402/) 2023.11
 
+* **Batch-ICL: Effective, Efficient, and Order-Agnostic In-Context Learning** 
+  
+   *Kaiyi Zhang, Ang Lv, Yuhan Chen, Hansen Ha, Tao Xu, Rui Yan* [[paper]](https://arxiv.org/abs/2401.06469) 2024.01
 
 ## Besides Papers
 * [blog](https://ai.stanford.edu/blog/understanding-incontext/) by [Sang Michael Xie](https://cs.stanford.edu/~eix/) and [Sewon Min](https://shmsw25.github.io/)
 * [blog](https://thegradient.pub/in-context-learning-in-context/) by Daniel Bashir
 
-* **Batch-ICL: Effective, Efficient, and Order-Agnostic In-Context Learning** 
-  
-   *Kaiyi Zhang, Ang Lv, Yuhan Chen, Hansen Ha, Tao Xu, Rui Yan* [[paper]](https://arxiv.org/abs/2401.06469) 2024.01
 
 
-* 
+
 
 
 ## Star History
