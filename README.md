@@ -36,7 +36,7 @@ Inspired by the [repository](https://github.com/SinclairCoder/Instruction-Tuning
 
 * **A Survey on In-context Learning**
   
-   *Qingxiu Dong, [Lei Li](https://lilei-nlp.github.io/), Damai Dai, Ce Zheng, Zhiyong Wu, Baobao Chang, Xu Sun, Jingjing Xu, Lei Li and Zhifang Sui* [[paper]](https://arxiv.org/abs/2301.00234) 2022.12
+   *Qingxiu Dong, [Lei Li](https://lilei-nlp.github.io/), Damai Dai, Ce Zheng, [Zhiyong Wu](https://lividwo.github.io/zywu.github.io/), Baobao Chang, Xu Sun, Jingjing Xu, Lei Li and Zhifang Sui* [[paper]](https://arxiv.org/abs/2301.00234) 2022.12
 
 * **Learning To Retrieve Prompts for In-Context Learning** `NAACL 2022`
   * propose the method of `epr`
@@ -75,7 +75,7 @@ Inspired by the [repository](https://github.com/SinclairCoder/Instruction-Tuning
   
    * zhihu [[link]](https://zhuanlan.zhihu.com/p/665852216)
   
-   *Zhiyong Wu, Yaoxiang Wang, [Jiacheng Ye](https://jiacheng-ye.github.io/), [Lingpeng Kong](https://ikekonglp.github.io/)* [[paper]](https://arxiv.org/abs/2212.10375) 2022.12
+   *[Zhiyong Wu](https://lividwo.github.io/zywu.github.io/), Yaoxiang Wang, [Jiacheng Ye](https://jiacheng-ye.github.io/), [Lingpeng Kong](https://ikekonglp.github.io/)* [[paper]](https://arxiv.org/abs/2212.10375) 2022.12
 * **Diverse Demonstrations Improve In-context Compositional Generalization** `ACL 2023`
   
    *Itay Levy, Ben Bogin, Jonathan Berant* [[paper]](https://aclanthology.org/2023.acl-long.78.pdf) 2022.12
@@ -88,7 +88,7 @@ Inspired by the [repository](https://github.com/SinclairCoder/Instruction-Tuning
 * **Compositional Exemplars for In-context Learning** `ICML 2023`
   * propose the method of `ceil`
   
-   *[Jiacheng Ye](https://jiacheng-ye.github.io/), Zhiyong Wu, Jiangtao Feng, Tao Yu, [Lingpeng Kong](https://ikekonglp.github.io/)* [[paper]](https://arxiv.org/abs/2302.05698) 2023.2
+   *[Jiacheng Ye](https://jiacheng-ye.github.io/), [Zhiyong Wu](https://lividwo.github.io/zywu.github.io/), Jiangtao Feng, Tao Yu, [Lingpeng Kong](https://ikekonglp.github.io/)* [[paper]](https://arxiv.org/abs/2302.05698) 2023.2
 
 * **Finding Support Examples for In-Context Learning** `EMNLP 2023`
   
@@ -100,6 +100,11 @@ Inspired by the [repository](https://github.com/SinclairCoder/Instruction-Tuning
    Zhihu [[link]](https://zhuanlan.zhihu.com/p/439876633)
 
    *Lean Wang, [Lei Li](https://lilei-nlp.github.io/), Damai Dai, Deli Chen, Hao Zhou, Fandong Meng, Jie Zhou, Xu Sun* [[paper]](https://arxiv.org/abs/2305.14160) 2023.5
+
+* **Coverage-based Example Selection for In-Context Learning** `EMNLP 2023 BEST PAPER AWARD🏆`
+  
+   *Shivanshu Gupta, Matt Gardner, Sameer Singh* [[paper]](https://arxiv.org/abs/2305.14907) 2023.5
+
    
 * **Unified Demonstration Retriever for In-Context Learning** `ACL 2023`
   
