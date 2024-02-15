@@ -76,7 +76,9 @@ Inspired by the [repository](https://github.com/SinclairCoder/Instruction-Tuning
    * zhihu [[link]](https://zhuanlan.zhihu.com/p/665852216)
   
    *Zhiyong Wu, Yaoxiang Wang, [Jiacheng Ye](https://jiacheng-ye.github.io/), [Lingpeng Kong](https://ikekonglp.github.io/)* [[paper]](https://arxiv.org/abs/2212.10375) 2022.12
-
+* **Diverse Demonstrations Improve In-context Compositional Generalization** `ACL 2023`
+  
+   *Itay Levy, Ben Bogin, Jonathan Berant* [[paper]](https://aclanthology.org/2023.acl-long.78.pdf) 2022.12
 
 
 * **Why Can GPT Learn In-Context? Language Models Implicitly Perform Gradient Descent as Meta-Optimizers** `ICLR 2023`
