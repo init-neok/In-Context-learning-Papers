@@ -18,6 +18,10 @@ Inspired by the [repository](https://github.com/SinclairCoder/Instruction-Tuning
   
    *[Jiachang Liu](https://jiachangliu.github.io/), Dinghan Shen, Yizhe Zhang, Bill Dolan, Lawrence Carin, Weizhu Chen* [[paper]](https://arxiv.org/abs/2101.06804) 2021.1
 
+* **Fantastically Ordered Prompts and Where to Find Them: Overcoming Few-Shot Prompt Order Sensitivity** `ACL 2022`
+  
+   *Yao Lu, Max Bartolo, Alastair Moore, Sebastian Riedel, Pontus Stenetorp* [[paper]](https://aclanthology.org/2022.acl-long.556/) 2021.4
+
 * **MetaICL: Learning to Learn In Context** `NAACL 2022`
   
    *[Sewon Min](https://shmsw25.github.io/), Mike Lewis, Luke Zettlemoyer, Hannaneh Hajishirzi* [[paper]](https://arxiv.org/abs/2110.15943) 2021.10
@@ -93,6 +97,10 @@ Inspired by the [repository](https://github.com/SinclairCoder/Instruction-Tuning
 * **Finding Support Examples for In-Context Learning** `EMNLP 2023`
   
    *[Xiaonan Li](https://scholar.google.com/citations?user=ldEcEjEAAAAJ), [Xipeng Qiu](https://xpqiu.github.io/)* [[paper]](https://arxiv.org/abs/2302.13539) 2023.2
+
+* **In-Context Learning with Many Demonstration Examples** 
+  
+   *Mukai Li, Shansan Gong, Jiangtao Feng, Yiheng Xu, Jun Zhang, Zhiyong Wu, Lingpeng Kong* [[paper]](https://arxiv.org/abs/2302.04931) 2023.2
 
 * **Label Words are Anchors: An Information Flow Perspective for Understanding In-Context Learning** `EMNLP 2023 BEST PAPER AWARD🏆`
   
