@@ -72,10 +72,13 @@ Inspired by the [repository](https://github.com/SinclairCoder/Instruction-Tuning
   
    *Hyuhng Joon Kim, Hyunsoo Cho, Junyeob Kim, Taeuk Kim, Kang Min Yoo, Sang-goo Lee* [[paper]](https://arxiv.org/abs/2206.08082) 2022.5
 
-
 * **Active Example Selection for In-Context Learning** `EMNLP 2022`
   
    *Yiming Zhang, Shi Feng, Chenhao Tan* [[paper]](https://arxiv.org/abs/2211.04486) 2022.11
+
+* **Self-Generated In-Context Learning: Leveraging Auto-regressive Language Models as a Demonstration Generator** 
+  
+   *Hyuhng Joon Kim, Hyunsoo Cho, Junyeob Kim, Taeuk Kim, Kang Min Yoo, Sang-goo Lee* [[paper]](https://arxiv.org/abs/2206.08082) 2022.06
 * **Teaching Algorithmic Reasoning via In-context Learning** 
   
    *Hattie Zhou, Azade Nova, Hugo Larochelle, Aaron Courville, Behnam Neyshabur, Hanie Sedghi* [[paper]](https://arxiv.org/abs/2211.09066) 2022.11
