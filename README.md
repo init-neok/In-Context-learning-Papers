@@ -68,6 +68,11 @@ Inspired by the [repository](https://github.com/SinclairCoder/Instruction-Tuning
   
    *Kang Min Yoo, Junyeob Kim, Hyuhng Joon Kim, Hyunsoo Cho, Hwiyeol Jo, Sang-Woo Lee, Sang-goo Lee, Taeuk Kim* [[paper]](https://arxiv.org/abs/2205.12685) 2022.5
 
+* **Self-Generated In-Context Learning: Leveraging Auto-regressive Language Models as a Demonstration Generator** `EMNLP 2022`
+  
+   *Hyuhng Joon Kim, Hyunsoo Cho, Junyeob Kim, Taeuk Kim, Kang Min Yoo, Sang-goo Lee* [[paper]](https://arxiv.org/abs/2206.08082) 2022.5
+
+
 * **Active Example Selection for In-Context Learning** `EMNLP 2022`
   
    *Yiming Zhang, Shi Feng, Chenhao Tan* [[paper]](https://arxiv.org/abs/2211.04486) 2022.11
