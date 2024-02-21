@@ -154,6 +154,10 @@ Inspired by the [repository](https://github.com/SinclairCoder/Instruction-Tuning
   
    *Kaiyi Zhang, Ang Lv, Yuhan Chen, Hansen Ha, Tao Xu, Rui Yan* [[paper]](https://arxiv.org/abs/2401.06469) 2024.01
 
+* **Fine-Tuning, Prompting, In-Context Learning and Instruction-Tuning:How Many Labelled Samples Do We Need?** 
+  
+   *Branislav Pecher, Ivan Srba, Maria Bielikovan* [[paper]](https://arxiv.org/html/2402.12819v1) 2024.02
+
 ## Besides Papers
 * [blog](https://ai.stanford.edu/blog/understanding-incontext/) by [Sang Michael Xie](https://cs.stanford.edu/~eix/) and [Sewon Min](https://shmsw25.github.io/)
 * [blog](https://thegradient.pub/in-context-learning-in-context/) by Daniel Bashir
