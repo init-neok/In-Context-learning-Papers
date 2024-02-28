@@ -117,14 +117,17 @@ Inspired by the [repository](https://github.com/SinclairCoder/Instruction-Tuning
 
    *Lean Wang, [Lei Li](https://lilei-nlp.github.io/), Damai Dai, Deli Chen, Hao Zhou, Fandong Meng, Jie Zhou, Xu Sun* [[paper]](https://arxiv.org/abs/2305.14160) 2023.5
 
-* **Coverage-based Example Selection for In-Context Learning** `EMNLP 2023 BEST PAPER AWARD🏆`
+* **Coverage-based Example Selection for In-Context Learning** 
   
    *Shivanshu Gupta, Matt Gardner, Sameer Singh* [[paper]](https://arxiv.org/abs/2305.14907) 2023.5
 
-   
+* **Mitigating Label Biases for In-context Learning** `ACL 2023`
+  
+   *Yu Fei, Yifan Hou, Zeming Chen, Antoine Bosselut* [[paper]](https://arxiv.org/abs/2305.19148) 2023.5
+
 * **Unified Demonstration Retriever for In-Context Learning** `ACL 2023`
   
-   *Xiaonan Li, Kai Lv, Hang Yan, Tianyang Lin, Wei Zhu, Yuan Ni, Guotong Xie, Xiaoling Wang, [Xipeng Qiu](https://xpqiu.github.io/)* [[paper]](https://arxiv.org/abs/2305.04320) 2023.5
+   *Xiaonan Li, Kai Lv, Hang Yan, Tianyang Lin, Wei Zhu, Yuan Ni, Guotong Xie, Xiaoling Wang, Xipeng Qiu* [[paper]](https://arxiv.org/abs/2305.04320) 2023.5
 
 * **PRODIGY: Enabling In-context Learning Over Graphs** `NeurIPS 2023`
   
